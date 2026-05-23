@@ -1,0 +1,14 @@
+/* TEAM */
+Developer: Yaroslav Boruk (MAN1K)
+Contact: void@man1k.xyz
+From: Ukraine
+
+Technical Support: DesireLust
+Contact: desirelust123@gmail.com
+
+/* SITE */
+Last update: 2026-05-23
+Version: 1.0
+Build: 26.5
+Language: English
+Charset: UTF-8

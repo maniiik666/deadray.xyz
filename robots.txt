@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Host: deadray.xyz
+Crawl-delay: 5
+Request-rate: 1/5s
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&utm_id&fbclid&gclid&yclid
+
+Sitemap: https://deadray.xyz/sitemap.xml
